@@ -1,0 +1,6 @@
+the elements in the html page can be classified in to the "2" types they are
+        1. class elements
+        2.id elements
+
+        1.class elements:the class elements are play an importent role in the html web page by using the class element giving the same style to some group of the elements easily the code lenth is decreaing the web pageeasily find out he same 
+        type of the elements

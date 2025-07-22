@@ -1,0 +1,6 @@
+lists inhtml:
+             the lists in the html can be classfied as a two types they are 
+             1.ordered lists and
+             2. un ordered lists
+             3.the another types of lists are the nested lists ,this nested list means lists used in in word the lists is called the nested lists
+              4.description list this list is used to give the discrption to html webpage

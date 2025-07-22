@@ -1,0 +1,33 @@
+CSS SELECTORS:
+             The css selectors can be classfied in to the 4 types 
+             they are
+                    1. Element selectors
+                    2. class sclectors
+                    3. id selectors
+                    4. multiple selectors
+
+1. Element SELECTORS: 
+                    the element selectors can be used in the css directly tag name example is given below
+
+                     p{
+                        color:red;
+                     }                   
+ 2. class selectors: the class selectors play an imporatant role in css the representation is given below
+                   the class selctors indicated in dogt "."
+
+                   .balaji{
+                    color:green;
+                   }                     
+ 3. id selectors: the id selectors are rarerly used in html for styleing 
+                  it can be represented  by ash "#"
+                  
+                  #balaji{
+                          color:blue;
+                  }
+4. multiple selectors : the multiple selectors are used in diffrent diffrent tags can apply 
+the same styleing this multiple selector is used it can be represention is given below
+                    
+
+                    h2,h5,h1{
+                        color:yellow;
+                    }
